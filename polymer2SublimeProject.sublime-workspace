@@ -1,0 +1,152 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementsByTagName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/justinroyer/Documents/Projects/polymer2/public/css/main.css",
+		"/Users/justinroyer/Documents/Projects/polymer2/public/contact-listing.html",
+		"/Users/justinroyer/Documents/Projects/polymer2/public/contact-list.html",
+		"/Users/justinroyer/Documents/Projects/polymer2/public/index.html",
+		"/Users/justinroyer/Documents/Projects/polymer2/public/bower_components/google-map/google-map.html",
+		"/Users/justinroyer/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/justinroyer/Documents/Projects/polymer/polymer-starter-kit/app/public/index.html",
+		"/Users/justinroyer/Documents/Projects/polymer/polymer-starter-kit/app/public/index44.html",
+		"/Users/justinroyer/Documents/Projects/polymer/elements/hello-world.html",
+		"/Users/justinroyer/Documents/Projects/polymer/index.html",
+		"/Users/justinroyer/Documents/Projects/shirtlessApp/public/index.html",
+		"/Users/justinroyer/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/justinroyer/Documents/Projects/polymer/public/index.html",
+		"/Users/justinroyer/Desktop/projectDetails.html",
+		"/Users/justinroyer/Documents/Projects/learnNode/my_web_server.js",
+		"/Users/justinroyer/Documents/Projects/learnNode/my_parser.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
